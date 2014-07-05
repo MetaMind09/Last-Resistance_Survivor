@@ -1,0 +1,4 @@
+shader = "materials/custom/burning_small.surface_shader"
+noiseMap = "materials/effects/mesh_effects/fire_tile_01.dds"
+glowpoints = "materials/effects/mesh_effects/acid_tile_01.dds"
+ 
